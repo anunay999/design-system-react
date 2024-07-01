@@ -90,7 +90,7 @@ class DatepickerYearSelector extends React.Component {
 					}}
 					selection={selection}
 					value={selection.value}
-					variant="readonly"
+					variant="inline-listbox"
 				/>
 			</div>
 		);
